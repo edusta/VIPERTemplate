@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import Foundation
+import UIKit
 
 protocol ___VARIABLE_productName:identifier___ViewProtocol: UIViewController {
 	var presenter: ___VARIABLE_productName:identifier___PresenterProtocol! { get set }

@@ -16,13 +16,13 @@
       <key>Required</key>
       <true/>
       <key>Name</key>
-      <string>Model:</string>
+      <string>Module Name:</string>
       <key>Description</key>
-      <string>The name of the Model, View and ViewModel to create</string>
+      <string>The name of the VIPER Module to create</string>
       <key>Type</key>
       <string>text</string>
       <key>Default</key>
-      <string>MyModel</string>
+      <string>Custom</string>
     </dict>
   </array>
 </dict>

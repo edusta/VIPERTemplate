@@ -3,7 +3,7 @@
 import Foundation
 
 final class ___VARIABLE_productName:identifier___Builder {
-    @available(*, unavailable) private init() {}
+    @available(*, unavailable) private init() { }
 
     static func build() -> ___VARIABLE_productName:identifier___ViewProtocol {
         let service = ___VARIABLE_productName:identifier___Service()
