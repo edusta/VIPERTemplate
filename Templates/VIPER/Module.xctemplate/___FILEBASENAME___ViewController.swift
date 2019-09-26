@@ -4,7 +4,7 @@ import UIKit
 
 final class ___VARIABLE_productName:identifier___ViewController: UIViewController {
 
-	var presenter: ___VARIABLE_productName:identifier___PresenterProtocol!
+    var presenter: ___VARIABLE_productName:identifier___PresenterProtocol!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -14,7 +14,7 @@ final class ___VARIABLE_productName:identifier___ViewController: UIViewControlle
 }
 
 extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_productName:identifier___ViewProtocol {
-	func render(output: ___VARIABLE_productName:identifier___PresenterOutput) {
-		// TODO:
-	}
+    func render(output: ___VARIABLE_productName:identifier___PresenterOutput) {
+        // TODO:
+    }
 }
