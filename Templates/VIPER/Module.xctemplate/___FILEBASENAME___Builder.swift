@@ -12,9 +12,7 @@ final class ___VARIABLE_productName:identifier___Builder {
         let view = ___VARIABLE_productName:identifier___ViewController(nibName: String(describing: ___VARIABLE_productName:identifier___ViewController.self), bundle: nil)
         let router = ___VARIABLE_productName:identifier___Router(vc: view)
 
-        let presenter = ___VARIABLE_productName:identifier___Presenter(interactor: interactor,
-                                         view: view,
-                                         router: router)
+        let presenter = ___VARIABLE_productName:identifier___Presenter(interactor: interactor, view: view, router: router)
         view.presenter = presenter
         
         return view

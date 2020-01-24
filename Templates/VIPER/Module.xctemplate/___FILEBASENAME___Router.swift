@@ -11,5 +11,8 @@ final class ___VARIABLE_productName:identifier___Router: ___VARIABLE_productName
     
     func navigate(to route: ___VARIABLE_productName:identifier___Route) {
         // TODO:
+    	switch route {
+
+    	}
     }
 }

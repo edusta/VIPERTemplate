@@ -16,5 +16,8 @@ final class ___VARIABLE_productName:identifier___ViewController: UIViewControlle
 extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_productName:identifier___ViewProtocol {
     func render(output: ___VARIABLE_productName:identifier___PresenterOutput) {
         // TODO:
+    	switch output {
+
+    	}
     }
 }

@@ -8,8 +8,8 @@ final class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productN
     fileprivate unowned let view: ___VARIABLE_productName:identifier___ViewProtocol
 
     init(interactor: ___VARIABLE_productName:identifier___InteractorProtocol, 
-        view: ___VARIABLE_productName:identifier___ViewProtocol,
-        router: ___VARIABLE_productName:identifier___RouterProtocol) {
+         view: ___VARIABLE_productName:identifier___ViewProtocol,
+         router: ___VARIABLE_productName:identifier___RouterProtocol) {
         self.interactor = interactor
         self.view = view
         self.router = router
@@ -18,6 +18,9 @@ final class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productN
     }
 
     func handle(output: ___VARIABLE_productName:identifier___InteractorOutput) {
-        // TODO: 
+        // TODO:
+        switch output {
+
+        }
     }
 }
